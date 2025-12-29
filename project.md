@@ -1,0 +1,4 @@
+- Use same seed when comparing algorithms
+- Normalize values using mean and variance around other values (mean and variance of weight/height checked for certain ages)
+- Discard negative ages, insurance (highly specific)
+- Relatório 10-20 pages -> sumário mais importante -> notebook
